@@ -32,6 +32,7 @@ Parte da minha formação prática em backend foi desenvolvida no **curso de Bac
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ---
@@ -73,14 +74,6 @@ Sistema de gerenciamento de pacientes, médicos e consultas utilizando programa�
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardofilhodev&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofilhodev&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🎯 Objetivo
 
